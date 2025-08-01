@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141199078",
+    "year": 1813,
+    "category": "Classic"
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "year": 1949,
+    "category": "Dystopian"
+  },
+  {
+    "name": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "isbn": "9780062693662",
+    "year": 1934,
+    "category": "Mystery"
+  }
+]
